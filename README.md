@@ -3,7 +3,7 @@ Apresentação de exercícos realizados no curso técnico, abordando temas de en
 
 ![image](https://github.com/user-attachments/assets/6a4c409e-62a5-4bf2-a3de-fa65d59004a1)
 
-![image](https://github.com/user-attachments/assets/49ecbc09-a876-4969-9e09-dbe8c7638302)
+![image](https://github.com/user-attachments/assets/00873838-e4b6-4ce3-bedb-5170952049e2)
 
 ![image](https://github.com/user-attachments/assets/ef250ebc-4df0-4768-aa84-189ede5b0464)
 
