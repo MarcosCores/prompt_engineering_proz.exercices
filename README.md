@@ -1,5 +1,5 @@
-# Engenharia de prompts - ProzEducação
-Apresentação de exercícos realizados no curso técnico, abordando temas de engenharia de prompts, (LLM), GPT e ferramentas de IA.
+# Engenharia de prompts - <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6lo4wKaXbjgiHdGWBvYs75jVxLbwp5bELixlTTSiC_0-ezZyXyIEI8F3fk7OnfFe_Z4&usqp=CAU" width="35" height="27"> ProzEducação 
+Apresentação de exercícos realizados no curso técnico, abordando temas de engenharia de prompts, (LLM), GPT e ferramentas de IA. 
 
 ![image](https://github.com/user-attachments/assets/6a4c409e-62a5-4bf2-a3de-fa65d59004a1)
 
